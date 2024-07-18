@@ -10,14 +10,14 @@ export const mobileLinks = [
         icon: "/assets/icons/contact.svg"
     },
     {
-        label: "group",
-        route: '/group',
-        icon: "/assets/icons/users.svg"
-    },
-    {
         label: "stories",
         route: '/stories',
         icon: "/assets/icons/book-open.svg"
+    },
+    {
+        label: "group",
+        route: '/group',
+        icon: "/assets/icons/users.svg"
     },
     {
         label: "login",
