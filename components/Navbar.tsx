@@ -12,7 +12,7 @@ const Navbar = () => {
     const path = usePathname()
     const { userId } = useAuth()
     return (
-        <div className='h-20 flex items-center justify-between'>
+        <div className='py-4 flex items-center justify-between'>
             <div>
                 <Link href='/' className='font-bold text-xl text-blue-500'>YohanSocial</Link>
             </div>
